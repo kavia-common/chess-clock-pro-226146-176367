@@ -1,0 +1,4 @@
+{
+    "command": "npm run lint",
+    "working_directory": "/home/kavia/workspace/code-generation/chess-clock-pro-226146-176367/chess_clock_frontend"
+}
